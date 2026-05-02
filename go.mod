@@ -3,8 +3,6 @@ module github.com/client9/goldmark-demoji
 go 1.22.0
 
 require (
-	github.com/client9/demoji v0.0.0-00010101000000-000000000000
+	github.com/client9/demoji v0.0.0-20260502000712-6e0fe4fa2cb2
 	github.com/yuin/goldmark v1.8.2
 )
-
-replace github.com/client9/demoji => ../demoji
