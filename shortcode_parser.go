@@ -34,8 +34,7 @@ func (p *shortcodeInlineParser) Parse(parent ast.Node, block text.Reader, pc par
 	if i < 2 || i >= len(line) || line[i] != ':' {
 		return nil
 	}
-	shortcode := string(line[:i+1])
-	emoji, ok := p.table[shortcode]
+	emoji, ok := p.table[string(line[:i+1])]
 	if !ok {
 		return nil
 	}
