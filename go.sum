@@ -1,2 +1,4 @@
+github.com/client9/demoji v0.0.0-20260502034627-26017675fe61 h1:iTU8MD/h8eLdOSFfVP9/Knaxj9114hlxyksHR7X0vjY=
+github.com/client9/demoji v0.0.0-20260502034627-26017675fe61/go.mod h1:eVciqWa8/fjRQj2Jo3DXFufd9X3G2TbCWo55UABNPDc=
 github.com/yuin/goldmark v1.8.2 h1:kEGpgqJXdgbkhcOgBxkC0X0PmoPG1ZyoZ117rDVp4zE=
 github.com/yuin/goldmark v1.8.2/go.mod h1:ip/1k0VRfGynBgxOz0yCqHrbZXhcjxyuS66Brc7iBKg=
