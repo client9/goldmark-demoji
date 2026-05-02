@@ -1,4 +1,8 @@
 # goldmark-demoji
+[![Go Reference](https://pkg.go.dev/badge/github.com/client9/goldmark-demoji.svg)](https://pkg.go.dev/github.com/client9/goldmark-demoji)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://github.com/client9/goldmark-demoji/actions/workflows/go.yml/badge.svg)](https://github.com/client9/goldmark-demoji/actions)
+
 
 A [goldmark](https://github.com/yuin/goldmark) extension that converts between
 Unicode emoji, ASCII emoticons, and GitHub-style shortcodes in Markdown documents.
@@ -120,3 +124,8 @@ renders as:
 ```html
 <p>outside :-) but <code>inside 🙂 code span</code></p>
 ```
+
+## License
+
+[MIT](/LICENSE)
+
